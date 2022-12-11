@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Alexander Hayhoe!
-- 👀 I’m interested in Machine Learning, Firmware, and Data Science! 
-- 🌱 I’m currently learning Tensorflow (LSTM and DCNN) and working with the STM32 IDE to develop firmware 
+- 👀 I’m interested in Machine Learning, Full stack, and Data Science! 
+- 🌱 I’m currently working on a research project, developing software using Tensorflow and pandas to predict fundraising goals.
+- 🌱 As a Full Stack dev, I am currently working with Next.js, Chakra UI, and React 
 - 📫 Reach me at my email: xanderhayhoe@gmail.com, or my linkedin https://www.linkedin.com/in/alexander-hayhoe/ 
 
 <!---
